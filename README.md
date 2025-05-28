@@ -65,22 +65,22 @@ A continuación se presentan las capturas de pantalla obtenidas desde la consola
 
 ### 🖥️ Resultado general (`main.py`)
 
-![🖼️ Captura Main](CapturaMain.png)
+![ Captura Main](CapturaMain.PNG)
 
 ---
 
 ### 🧪 Prueba individual: Laboratorio
 
-![🧪 Laboratorio](CapturaLaboratorio.png)
+![ Laboratorio](CapturaLaboratorio.PNG)
 
 ---
 
 ### 🧪 Prueba individual: Sala de Estudio
 
-![📚 Sala de Estudio](CapturaSalaEstudio.png)
+![ Sala de Estudio](CapturaSalaEstudio.PNG)
 
 ---
 
 ### 🧪 Prueba individual: Auditorio
 
-![🎤 Auditorio](CapturaAuditorio.png)
+![ Auditorio](CapturaAuditorio.PNG)
